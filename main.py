@@ -1,0 +1,1 @@
+print("SZY MA AUT")
